@@ -1,0 +1,11 @@
+{
+  "name": "lab7---filozofowie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "filozofowie.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sophie",
+  "license": "ISC"
+}
